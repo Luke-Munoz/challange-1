@@ -1,2 +1,2 @@
 # challange-1
-website for horiseon
+Website for Horiseon
