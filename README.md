@@ -1,31 +1,31 @@
-# challange-1
+# challenge-1
 Website for Horiseon
 
 
-##Purpose
+## Purpose
 
 A website used by Horiseon
 
-##Built with
+## Built with
 
-*html
-*css
+* html
+* css
 
-##Website 
+## Website 
+ 
 
 
+![screenshots](./assets/images/screenshot1.png)
 
-![screenshots](Screen Shot 2021-05-01 at 5.25.34 PM)
+![screenshots](./assets/images/screenshot2.png)
 
-![screenshots](Screen Shot 2021-05-01 at 5.25.36 PM)
+![screenshots](./assets/images/screenshot3.png)
 
-![screenshots](Screen Shot 2021-05-01 at 5.25.11 PM)
+![screenshots](./assets/images/screenshot4.png)
 
-![screenshots](Screen Shot 2021-05-01 at 5.25.18 PM)
+![screenshots](./assets/images/screenshot5.png)
 
-![screenshots](Screen Shot 2021-05-01 at 5.25.21 PM)
-
-![screenshots](Screen Shot 2021-05-01 at 5.25.27 PM)
+![screenshots](./assets/images/screenshot6.png)
 
 
 
@@ -33,7 +33,7 @@ A website used by Horiseon
 https://luke-munoz.github.io/challange-1/
 
 
-##Contribution 
+## Contribution 
 
 
 
